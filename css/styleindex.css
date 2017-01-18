@@ -1,0 +1,79 @@
+
+/*------------------------------ page index -------------------------*/
+
+body 
+{
+
+    padding-top: 60px;
+}
+
+
+#actu 
+{
+    padding-top: 25px;
+}
+
+
+.liens
+{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h3
+{
+    font-weight: bold;
+}
+
+.liens:hover
+{
+    color: red;
+}
+
+.liens:visited
+{
+    color: red;
+}
+
+
+div.c-wrapper
+{
+    width: 100%; 
+    margin: auto;
+}
+
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img
+{
+width: 100%;  use this, or not 
+margin: auto;
+}
+
+.backGround
+{
+    background: #FAFAF0;
+}
+
+
+/*---------------------- media queries----------------------------------- */
+
+@media all and (min-width: 768px) {
+    
+
+    
+    
+}
+
+/*----------------------------------------------------------------------- */
+
+
+@media all and (min-width: 1200px) {
+
+
+
+    
+
+
+    
+}
